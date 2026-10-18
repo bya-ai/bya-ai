@@ -1,16 +1,43 @@
-## Hi there 👋
+# A
 
-<!--
-**bya-ai/bya-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building things that shouldn't exist yet.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `01` — What I do
+
+I build at the intersection of **AI, software, design and ideas.**
+
+Currently exploring:
+
+- AI products
+- Python
+- Computer vision
+- Automation
+- Web development
+- Product design
+
+### `02` — Projects
+
+**Aurel**  
+A personal second brain — built around context, memory and interaction.
+
+**[Your future project]**  
+One-line description.
+
+**[Your future project]**  
+One-line description.
+
+### `03` — Currently
+
+Learning.  
+Building.  
+Experimenting.
+
+### `04` — Find me
+
+[Portfolio] · [LinkedIn]
+
+---
+
+> **Think Beyond.**
